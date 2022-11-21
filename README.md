@@ -11,7 +11,7 @@ I'm Christian and I am a AI enthusiast, born and raised in Hamburg, Germany. I c
 - 💬 Ask me about: anything you'd want to know?!
 - 📫 How to reach me: Chat with me on [LinkedIn](https://www.linkedin.com/in/lheinbokel/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love techno 🎶
+- ⚡ Fun fact: I love techno music 🎶
 
 ## 🎙️ Talk to me about
 
