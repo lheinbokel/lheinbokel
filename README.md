@@ -1,6 +1,6 @@
 # Welcome to my GitHub 👋
 
-I'm Christian and I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and work in Bremen, Germany, while pursuing my Master's degree in computer science with focus on artificial intelligence. 
+I'm Christian and I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and work in Bremen, Germany, while pursuing my Master's degree in computer science at University of Bremen with a focus on artificial intelligence.
 
 
 ## 👱‍ Some information about me 
