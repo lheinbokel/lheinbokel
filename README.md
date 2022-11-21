@@ -9,3 +9,11 @@ I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and 
 - 📫 How to reach me: Chat with me on [LinkedIn](https://www.linkedin.com/in/lheinbokel/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love techno 🎶
+
+# Talk to me about
+
+> I'm always happy to talk about the following topics - hmu!
+
+- 🙇‍♂️ The latest learning algorithms
+- 🎶 Electronic dance music
+- 🌆 Computer Vision
