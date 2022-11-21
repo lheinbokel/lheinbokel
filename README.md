@@ -2,6 +2,9 @@
 
 I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and work in Bremen, Germany, while pursuing my Master's degree in computer science with focus on artificial intelligence. 
 
+
+## 👱‍ Some information about me 
+
 - 🔭 I’m currently working on: a robotics project, teaching autonomous robots to do tasks in human home environments 🤖
 - 🌱 I’m currently learning how to: teach robotic arms to do awesome things 🦾
 - 👯 I’m looking to: collaborate on developing React Native mobile apps 📲
@@ -10,7 +13,7 @@ I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love techno 🎶
 
-## Talk to me about
+## 🎙️ Talk to me about
 
 > I'm always happy to talk about the following topics - hmu!
 
