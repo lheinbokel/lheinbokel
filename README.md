@@ -5,7 +5,7 @@ I'm Christian and I am a AI enthusiast, born and raised in Hamburg, Germany. I c
 
 ## 👱‍ Some information about me 
 
-> Just some information about what I like and what I do. Let me know if you want to know anything else
+> Just some information about what I like and what I do. Let me know, if you want to know anything else.
 > 
 - 🔭 I’m currently working on: a robotics project, teaching autonomous robots to do tasks in human home environments 🤖
 - 🌱 I’m currently learning how to: teach robotic arms to do awesome things 🦾
