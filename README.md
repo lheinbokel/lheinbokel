@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and work in Bremen, Germany, while pursuing my Master's degree in computer science with focus on artificial intelligence. 
+
 - 🔭 I’m currently working on: a robotics project, teaching autonomous robots to do tasks in human home environments 🤖
 - 🌱 I’m currently learning how to: teach robotic arms to do awesome things 🦾
 - 👯 I’m looking to: collaborate on developing React Native mobile apps 📲
