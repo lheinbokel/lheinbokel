@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my GitHub 👋
 
 I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and work in Bremen, Germany, while pursuing my Master's degree in computer science with focus on artificial intelligence. 
 
@@ -10,7 +10,7 @@ I am a AI enthusiast, born and raised in Hamburg, Germany. I currently live and 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love techno 🎶
 
-# Talk to me about
+## Talk to me about
 
 > I'm always happy to talk about the following topics - hmu!
 
