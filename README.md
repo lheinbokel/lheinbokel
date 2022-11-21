@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Chat with me on [LinkedIn](https://www.linkedin.com/in/lheinbokel/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love techno 🎶
--->
