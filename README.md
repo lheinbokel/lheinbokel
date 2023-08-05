@@ -10,7 +10,7 @@ I'm Christian and I am an AI enthusiast, born and raised in Hamburg, Germany. I 
 - 🔭 I’m currently working on a robotics project, teaching autonomous robots to perform tasks in human home environments
 - 🌱 I’m currently learning how to: teach robotic arms to do awesome things 🦾
 - 📫 How to reach me: Chat with me on [LinkedIn](https://www.linkedin.com/in/lheinbokel/)
-- ⚡ Fun fact: I love techno.
+- ⚡ Fun fact: I love making techno on Ableton Live.
 
 ## 🎙️ Talk to me about
 
