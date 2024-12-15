@@ -1,10 +1,13 @@
-# Welcome to my GitHub 👋
+# Welcome to My GitHub 👋
 
-I'm Christian and I am an AI enthusiast, born and raised in Hamburg, Germany. I currently live and work in Bremen, Germany, while pursuing my Master's degree in computer science at the University of Bremen. The focus of my studies lies on artificial intelligence, especially deep- and reinforcement learning.
+Hello! I’m **Christian**, an **AI Engineer** deeply passionate about creating innovative artificial intelligence solutions. Born and raised in Hamburg, Germany, I now call Bremen home, where I pursue my Master’s degree in **Computer Science** at the **University of Bremen**. My primary research revolves around **deep learning**, **reinforcement learning**, and their applications in robotics.
 
+## What I’m Working On
+* 🤖 Robotics Innovation: Teaching autonomous robots to perform complex tasks in human environments—bridging the gap between AI and everyday life.
+* 📖 Master’s Thesis: Exploring Meta-Reinforcement Learning for Enhanced Generalization in Robotics, with the goal of advancing how robots adapt to new challenges.
 
-## Some information about me 
+## A Bit About Me
+* 🚀 I’m passionate about solving real-world problems with cutting-edge AI.
+* 🎶 When I’m not coding, I enjoy creating music with Ableton Live, blending technology and art to express creativity.
 
-- 🔭 I’m currently working on a robotics project, teaching autonomous robots to perform tasks in human home environments
-- 📫 How to reach me: Chat with me on [LinkedIn](https://www.linkedin.com/in/lheinbokel/)
-- ⚡ Fun fact: I love making music using Ableton Live.
+Feel free to explore my repositories, reach out, or collaborate. Let’s build something amazing together!
